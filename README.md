@@ -1,4 +1,3 @@
-\
 # Capstone Idea 
 My application  will be a website for a concert simular to Cochella and it will sell the concert tickets and let people buy backstage passes and merch, it will also allow you to create a schedule of all of artist that you would like to see so that you will be present when they preform.
 
