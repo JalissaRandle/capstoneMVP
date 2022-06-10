@@ -1,5 +1,5 @@
 # Capstone Idea 
-My application  will be a website for a concert simular to Cochella and it will sell the concert tickets and let people buy backstage passes and merch. 
+My application  will be a website for a concert simular to Coachella and it will sell the concert tickets and let people buy backstage passes and merch. 
 
 # MVPS
 * User can view all of the different tickets and the different perks each ticket 
@@ -9,11 +9,11 @@ My application  will be a website for a concert simular to Cochella and it will 
 
 # Other ideas
 * Users will be able to see the roster and click the artist and be able to listen to their music on spotify or apple music 
-* users will be able to create a schedule of all the times of their fav artist eill come on stage 
+
 
 
 # Pages
 * Home Page
 * Artist page
 * Tickets page 
-* Profile
+* Sign-in
