@@ -18,7 +18,8 @@ My application  will be a website for a concert simular to Coachella and it will
 * Tickets page 
 * Sign-in
 
-#Database
+# Database
 
-!(https://user-images.githubusercontent.com/100623125/174405232-370274f3-516b-4a7e-acbf-233d63281cbf.png)
+*![Screen Shot 2022-06-17 at 4 45 37 PM](https://user-images.githubusercontent.com/100623125/174405325-a53dde00-e446-4bb2-933f-4f6a2edd1ffa.png)
+
 
